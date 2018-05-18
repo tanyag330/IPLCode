@@ -25,6 +25,9 @@ Information about other files
 
 
 Steps for Running :
+Directly Access the application at- https://tanyagupta.shinyapps.io/AvengersAnalysis/
+
+OR
 1. Installation of R from - http://cran.us.r-project.org/
 2. Download the code file from Github
 3. Set Directory by running this code on R
@@ -48,3 +51,5 @@ Steps for Running :
 6. Enter the pin generated after authentication
 &. Change the No. of tweets and analyze charts, text, Word Cloud
 Note:  The server will take some time to plot charts which will depend on No. of tweets you choose.
+
+
