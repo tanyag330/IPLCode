@@ -8,7 +8,7 @@ shinyUI(pageWithSidebar(
   
   sidebarPanel(
     
-    sliderInput("maxTweets","Number of recent tweets to use for analysis:",min=5,max=1000,value=200), 
+    sliderInput("maxTweets","Number of recent tweets to use for analysis:",min=5,max=1000,value=450), 
     submitButton(text="Analyse")
     
   ),
