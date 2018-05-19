@@ -25,9 +25,7 @@ Information about other files
 
 
 Steps for Running :
-Directly Access the application at- https://tanyagupta.shinyapps.io/AvengersAnalysis/
 
-OR
 1. Installation of R from - http://cran.us.r-project.org/
 2. Download the code file from Github
 3. Set Directory by running this code on R
